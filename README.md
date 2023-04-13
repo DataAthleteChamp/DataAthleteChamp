@@ -15,7 +15,7 @@
 🔭 My current research interests include:
 - Time Series Analysis
 - Data stream processing
-- 
+
 💹 Investor in the stock market, interested in financial analysis and quantitative trading strategies.
 
 🏅 Passionate athlete, playing Lacrosse and Rowing at the university level.
