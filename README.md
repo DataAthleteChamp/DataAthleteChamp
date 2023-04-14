@@ -23,4 +23,5 @@
 🔍 I'm open to collaboration on projects related to Data Science, Machine Learning, and Big Data.
 
 📫 How to reach me: jakubpiotrowski@poczta.fm
+
 💬 or connect with me on [LinkedIn](https://www.linkedin.com/in/jakub-piotrowski-894117272/)
