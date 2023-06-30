@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 I'm a Systems Engineering student, passionate about AI, Big Data, and Machine Learning.
+🎓 I'm a Systems Engineering student,spec. Data Engineering, passionate about AI, Big Data, and Machine Learning.
 
 💼 Currently working on projects involving Python, CPLEX, SQL.
 
