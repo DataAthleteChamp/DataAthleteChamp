@@ -2,7 +2,7 @@
 
 🎓 I'm a Systems Engineering student,spec. Data Engineering, passionate about AI, Big Data, and Machine Learning.
 
-💼 Currently working on projects involving Python, CPLEX, SQL.
+💼 Currently working on projects involving Python, LOGOSoft!, sql .
 
 🛠 My skillset includes:
 - Data Analysis and Visualization
@@ -10,7 +10,7 @@
 - Proficiency in Python; knowledge of SQL, C++, CPLEX
 - Experience with data manipulation libraries, such as Pandas and NumPy
 
-🌱 I'm constantly learning and expanding my knowledge in the field of AI and Big Data.
+🌱 I'm constantly learning and expanding my knowledge in the field of AI and Computer Vision.
 
 🔭 My current research interests include:
 - Time Series Analysis
