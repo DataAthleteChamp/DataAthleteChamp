@@ -1,27 +1,7 @@
-### Hi there 👋
+# Jakub Piotrowski
 
-🎓 I'm a Systems Engineering student,spec. Data Engineering, passionate about AI, Big Data, and Machine Learning.
+MSc Computer Science & Engineering student at DTU and AI Engineer at NUMA AI.  
+Focused on building reliable systems with **Python, Machine Learning, and Generative AI**.  
 
-💼 Currently working on projects involving Python, LOGOSoft!, sql .
-
-🛠 My skillset includes:
-- Data Analysis and Visualization
-- Big Data processing and management
-- Proficiency in Python; knowledge of SQL, C++, CPLEX
-- Experience with data manipulation libraries, such as Pandas and NumPy
-
-🌱 I'm constantly learning and expanding my knowledge in the field of AI and Computer Vision.
-
-🔭 My current research interests include:
-- Time Series Analysis
-- Data stream processing
-
-💹 Investor in the stock market, interested in financial analysis and quantitative trading strategies.
-
-🏅 Passionate athlete, playing Lacrosse and Rowing at the university level.
-
-🔍 I'm open to collaboration on projects related to Data Science, Machine Learning, and Big Data.
-
-📫 How to reach me: jakubpiotrowski@poczta.fm
-
-💬 or connect with me on [LinkedIn](https://www.linkedin.com/in/jakub-piotrowski-894117272/)
+🔧 Tech stack includes: Python · SQL · LangChain · PyTorch · TensorFlow · Docker  
+📂 Selected work: RAG systems, Conversational AI, Forecasting models, Computer Vision  
